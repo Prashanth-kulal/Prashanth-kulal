@@ -84,13 +84,14 @@ A personal finance dashboard for tracking expenses, budgets, and financial insig
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prashanth-kulal&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth-kulal&theme=tokyonight" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prashanth-kulal&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Prashanth-kulal&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth-kulal&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth-kulal&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
+
 
 ---
 
