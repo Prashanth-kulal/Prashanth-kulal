@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=170&section=header&animation=fadeIn"/>
+
 <h1 align="center">Hi 👋, I'm Prashanth Kulal</h1>
 
 <h3 align="center">
@@ -9,11 +11,11 @@ Passionate about building practical software solutions and exploring modern tech
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Software+Engineering+Enthusiast;Full+Stack+Development;Artificial+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Software+Engineering+Enthusiast;Full+Stack+Development;Artificial+Intelligence;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prashanth-kulal&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Prashanth-kulal&label=Profile%20Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
@@ -95,15 +97,24 @@ React • Node.js • Express.js • MongoDB
 
 ## 🤝 Connect With Me
 
-📧 **Email:**  
-**kulalprashanth779@gmail.com**
+<p align="center">
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/prashanth-kulal-10266328b
+<a href="mailto:kulalprashanth779@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-💻 **GitHub:**  
-https://github.com/Prashanth-kulal
+<a href="https://www.linkedin.com/in/prashanth-kulal-10266328b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prashanth-kulal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:5B86E5&height=120&section=footer"/>
