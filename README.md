@@ -5,7 +5,15 @@ Software Engineering Enthusiast | Full Stack Development | Artificial Intelligen
 </h3>
 
 <p align="center">
-  Passionate about building practical software solutions and exploring modern technologies.
+Passionate about building practical software solutions and exploring modern technologies.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!;Software+Engineering+Enthusiast;Full+Stack+Development;Artificial+Intelligence" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prashanth-kulal&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -23,9 +31,11 @@ Software Engineering Enthusiast | Full Stack Development | Artificial Intelligen
 ## 🚀 Featured Projects
 
 ### 🎓 Originality Checking & Intelligent Student Project Management System
+
 An AI-powered platform designed to evaluate project originality, manage project workflows, allocate supervisors intelligently, and monitor academic project progress.
 
-**Tech Stack:** HTML • CSS • JavaScript • Python (Flask) • Transformers • Scikit-learn • spaCy
+**Tech Stack:**  
+HTML • CSS • JavaScript • Python (Flask) • Transformers • Scikit-learn • spaCy
 
 ---
 
@@ -33,7 +43,8 @@ An AI-powered platform designed to evaluate project originality, manage project 
 
 A centralized platform for managing job applications with authentication, filtering, analytics, and dashboard features.
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB • JWT
+**Tech Stack:**  
+React • Node.js • Express.js • MongoDB • JWT
 
 ---
 
@@ -41,7 +52,8 @@ A centralized platform for managing job applications with authentication, filter
 
 A personal finance dashboard for tracking expenses, budgets, and financial insights.
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB
+**Tech Stack:**  
+React • Node.js • Express.js • MongoDB
 
 ---
 
@@ -81,23 +93,10 @@ A personal finance dashboard for tracking expenses, budgets, and financial insig
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prashanth-kulal&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Prashanth-kulal&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth-kulal&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-
----
-
 ## 🤝 Connect With Me
 
-📧 **Email:** kulalprashanth779@gmail.com
+📧 **Email:**  
+**kulalprashanth779@gmail.com**
 
 💼 **LinkedIn:**  
 https://www.linkedin.com/in/prashanth-kulal-10266328b
